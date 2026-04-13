@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luchitha Jayawardena</h1>
 <h3 align="center">A 3rd year Computer Science Undergraduate</h3>
 
-- 🔭 I’m currently working on [Hela Trip](https://github.com/sahan200272/Hela-Trip.git)
+- 🔭 I’m currently working on [Hela Trip](https://github.com/sahan200272/Hela-Trip.git) . [Meridian - Backend](https://github.com/notdulain/Meridian-Backend.git) , [Meridian - Frontend](https://github.com/notdulain/Meridian-Frontend.git) and [FCSC - Command Center](https://github.com/Luchitha7/FCSC-Command-Center.git)
 
 - 🌱 I’m currently learning **Flutter**
 
