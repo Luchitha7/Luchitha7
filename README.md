@@ -1,20 +1,91 @@
-<h1 align="center">Hi 👋, I'm Luchitha Jayawardena</h1>
-<h3 align="center">A 3rd year Computer Science Undergraduate</h3>
-
-- 🔭 I’m currently working on [Hela Trip](https://github.com/sahan200272/Hela-Trip.git) . [Meridian - Backend](https://github.com/notdulain/Meridian-Backend.git) , [Meridian - Frontend](https://github.com/notdulain/Meridian-Frontend.git) and [FCSC - Command Center](https://github.com/Luchitha7/FCSC-Command-Center.git)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **luchithajayawardena@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/luchithaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luchithaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/luchitha-jayawardena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luchitha-jayawardena" height="30" width="40" /></a>
-<a href="https://www.facebook.com/danny.warner.9404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danny.warner.9404" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/luchitha_jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luchitha_jay/" height="30" width="40" /></a>
-<a href="https://medium.com/@luchithajayawardena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luchithajayawardena" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Luchitha+Jayawardena;3rd+Year+CS+Undergraduate;Full+Stack+%7C+Mobile+%7C+Cloud;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luchitha7&label=Profile+Views&color=1565C0&style=flat" alt="profile views" />
+  <a href="https://twitter.com/luchithaj"><img src="https://img.shields.io/twitter/follow/luchithaj?logo=twitter&style=flat&color=1565C0" alt="twitter" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name:       Luchitha Jayawardena
+location:   Sri Lanka 🇱🇰
+education:  3rd Year · Computer Science · Undergraduate
+focus:      Full Stack Development · Mobile Apps · Cloud
+currently:  Building Hela Trip, Meridian & FCSC Command Center
+learning:   Flutter 🐦
+contact:    luchithajayawardena@gmail.com
+```
+
+---
+
+### 🔭 Current Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🌍 Hela Trip](https://github.com/sahan200272/Hela-Trip.git) | Tourism platform for Sri Lanka | React · Firebase |
+| [🧭 Meridian — Backend](https://github.com/notdulain/Meridian-Backend.git) | RESTful backend services | Spring Boot · MySQL |
+| [🧭 Meridian — Frontend](https://github.com/notdulain/Meridian-Frontend.git) | Responsive frontend UI | React · JavaScript |
+| [🖥️ FCSC Command Center](https://github.com/Luchitha7/FCSC-Command-Center.git) | Control & monitoring dashboard | Java |
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,dart,flutter,swift,mysql,firebase,aws,figma,postman,c,ps&theme=dark&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luchitha7&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=42A5F5&icon_color=64B5F6&text_color=BBDEFB&ring_color=1565C0" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luchitha7&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=42A5F5&text_color=BBDEFB" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luchitha7&hide_border=true&background=0D1B2A&ring=42A5F5&fire=64B5F6&currStreakLabel=42A5F5&sideLabels=BBDEFB&dates=90CAF9&sideNums=ffffff&currStreakNum=ffffff" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-0D47A1?style=for-the-badge&logo=flutter&logoColor=64B5F6" />
+  <img src="https://img.shields.io/badge/Dart-1565C0?style=for-the-badge&logo=dart&logoColor=90CAF9" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/luchitha-jayawardena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/luchithaj" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1565C0?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@luchithajayawardena" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-0D47A1?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/luchitha_jay/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:luchithajayawardena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=100&section=footer" />
+</p>
