@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Luchitha+Jayawardena;3rd+Year+CS+Undergraduate;Full+Stack+%7C+Mobile+%7C+Cloud;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Luchitha+Jayawardena;3rd+Year+CS+Undergraduate;Backend+%7C+Full+Stack+%7C+Cloud;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,29 +15,30 @@
 name:       Luchitha Jayawardena
 location:   Sri Lanka 🇱🇰
 education:  3rd Year · Computer Science · Undergraduate
-focus:      Full Stack Development · Mobile Apps · Cloud
-currently:  Building Hela Trip, Meridian & FCSC Command Center
-learning:   Flutter 🐦
+focus:      Backend Engineering · Full Stack · Cloud
+currently:  Building microservices, internal tools & AI pipelines
+exploring:  NLP & applied AI 🤖
 contact:    luchithajayawardena@gmail.com
 ```
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌍 Hela Trip](https://github.com/sahan200272/Hela-Trip.git) | Tourism platform for Sri Lanka | React · Firebase |
-| [🧭 Meridian — Backend](https://github.com/notdulain/Meridian-Backend.git) | RESTful backend services | Spring Boot · MySQL |
-| [🧭 Meridian — Frontend](https://github.com/notdulain/Meridian-Frontend.git) | Responsive frontend UI | React · JavaScript |
-| [🖥️ FCSC Command Center](https://github.com/Luchitha7/FCSC-Command-Center.git) | Control & monitoring dashboard | Java |
+| [🧭 Meridian](https://github.com/notdulain/Meridian-Backend.git) | Fleet management platform · 7 microservices, API gateway, gRPC, k6 load testing, CI/CD to Azure | ASP.NET Core · React · Docker · Azure |
+| [🎙️ Speech Sentiment Analyzer](https://github.com/Luchitha7/whisper-roberta-sentiment.git) | AI pipeline that transcribes audio with Whisper, then runs sentiment & emotion classification via RoBERTa | Python · Whisper · RoBERTa |
+| [🏥 MediConnect - Backend](https://github.com/Luchitha7](https://github.com/Luchitha7/MediConnect---Backend-.git) | Smart healthcare appointment system with role-based access control | Java · Spring Boot · React · MySQL |
+| [🌍 Hela Trip](https://github.com/sahan200272/Hela-Trip.git) | Cross-platform travel app for Sri Lanka | Flutter · Firebase |
+| [🖥️ Command Center](https://github.com/Luchitha7/FCSC-Command-Center.git) | Event management dashboard | React · Supabase |
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,dart,flutter,swift,mysql,firebase,aws,figma,postman,c,ps&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,nextjs,js,ts,python,dart,flutter,mysql,postgres,supabase,firebase,docker,azure,figma,postman,c&theme=dark&perline=10" />
 </p>
 
 ---
@@ -55,11 +56,12 @@ contact:    luchithajayawardena@gmail.com
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Into
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-0D47A1?style=for-the-badge&logo=flutter&logoColor=64B5F6" />
-  <img src="https://img.shields.io/badge/Dart-1565C0?style=for-the-badge&logo=dart&logoColor=90CAF9" />
+  <img src="https://img.shields.io/badge/Microservices-0D47A1?style=for-the-badge&logoColor=64B5F6" />
+  <img src="https://img.shields.io/badge/Applied_AI-1565C0?style=for-the-badge&logo=openai&logoColor=90CAF9" />
+  <img src="https://img.shields.io/badge/Open_Source-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
