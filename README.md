@@ -1,35 +1,99 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=160&section=header&text=Luchitha%20Jayawardena&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=builds%20backends%20.%20breaks%20them%20on%20purpose%20.%20fixes%20them&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="./assets/header.svg" width="100%" alt="luchitha@kegalle terminal" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=42A5F5&center=true&vCenter=true&width=620&lines=3rd+Year+CS+Undergrad+%40+SLIIT;Backend+%7C+Full+Stack+%7C+Cloud+%7C+QA;Shipping+things+end+to+end+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Luchitha7&label=visitors&color=1565C0&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Luchitha7?label=followers&color=0D47A1&style=flat-square" />
+  <img src="https://img.shields.io/badge/based_in-Sri_Lanka_🇱🇰-1565C0?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luchitha7&label=Profile+Views&color=1565C0&style=flat" alt="profile views" />
-  <a href="https://twitter.com/luchithaj"><img src="https://img.shields.io/twitter/follow/luchithaj?logo=twitter&style=flat&color=1565C0" alt="twitter" /></a>
-  <img src="https://img.shields.io/badge/based_in-Sri_Lanka_🇱🇰-0D47A1?style=flat" />
+  I build backends, small tools that run on your own machine, and the tests that keep both honest.<br/>
+  Most of what's here started as <i>"why doesn't this exist yet?"</i>
 </p>
 
 ---
 
-### `$ whoami`
+### ⚡ Flagship
 
-```yaml
-name:       Luchitha Jayawardena
-education:  BSc (Hons) Computer Science · SLIIT · Year 3
-focus:      Backend · Distributed systems · Test automation
-currently:  Working full time and studying full time (sleep is optional)
-exploring:  NLP, local LLMs, applied AI 🤖
-contact:    luchithajayawardena@gmail.com
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⏱️ [fivehour](https://github.com/Luchitha7/fivehour)
+Your Claude 5 hour usage limit, always in view. Percent used, reset countdown, weekly limit and alerts, right in the menu bar or system tray. Shipped with releases and CI.
+
+<img src="https://img.shields.io/github/v/release/Luchitha7/fivehour?color=1565C0&style=flat-square" />
+<img src="https://img.shields.io/github/downloads/Luchitha7/fivehour/total?color=0D47A1&style=flat-square" />
+
+`Electron` `JavaScript` `macOS` `Windows` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎙️ [Utter](https://github.com/Luchitha7/utter)
+Private voice control for your Mac. Press ⌘⇧Space, say *"remind me to call mum at 5"* or *"open Chrome and search YouTube"*, and a local model turns it into actions. Speech and AI both stay on device.
+
+`Swift` `Ollama` `Qwen3` `Apple Speech`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📞 [SignalQA](https://github.com/Luchitha7/gemma-qa-analysis)
+Automated QA for customer service calls. Feed it a transcript, get back a score out of 100, an agent scorecard, compliance checks, tense moments and coaching notes. RoBERTa for sentiment, Gemma as the judge, embeddings for the knowledge base, and a job queue for load. Fully local, zero API bills.
+
+`Python` `RoBERTa` `Gemma` `RAG` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🦋 [Butterfly Effect](https://github.com/Luchitha7/butterfly-effect)
+One algorithm, four implementations. A Cooley Tukey radix 2 FFT written serially, then parallelized with OpenMP, MPI and CUDA to measure what actually makes it faster and where each one hits its ceiling.
+
+`C` `CUDA` `OpenMP` `MPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧱 Systems & Backend
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🧭 | [**Meridian**](https://github.com/notdulain/Meridian-Backend) | Fleet management platform. 7 microservices behind an API gateway, gRPC between services, k6 load tests, CI/CD to Azure | `ASP.NET Core` `gRPC` `Docker` `Azure` |
+| 📨 | [**Wiber**](https://github.com/Luchitha7/wiber) | Multi node, fault tolerant messaging system. Leader election, replication, Lamport clocks, failover, live WebSocket streaming. No Kafka needed | `Python` `FastAPI` `Raft` |
+| 🧪 | [**TestLang++**](https://github.com/Luchitha7/Test-lang) | A DSL for HTTP API tests that compiles to JUnit 5. Lexer, parser, AST and code generator built from scratch | `Java` `JFlex` `CUP` `JUnit 5` |
+| 🏥 | [**MediConnect**](https://github.com/Luchitha7/MediConnect---Backend-) | Healthcare appointment platform with RBAC. Backend being rebuilt stage by stage to learn Spring properly | `Spring Boot` `React` `MySQL` `JWT` |
+
+### 🎮 Apps & Games
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🌲 | [**Labyrinth**](https://github.com/Luchitha7/Labyrinth) | 3D maze game where AI demon dogs hunt you. Drop barriers and watch A\*, BFS and Dijkstra replan live, side by side | `Unity 6` `C#` |
+| 🎬 | [**MoodFrame**](https://github.com/Luchitha7/MoodFrame) | iOS app that recommends movies by how you feel, not by genre | `SwiftUI` `TMDB API` |
+| 🌍 | [**Hela Trip**](https://github.com/sahan200272/Hela-Trip) | Cross platform travel app for exploring Sri Lanka | `Flutter` `Firebase` |
+| 🖥️ | [**Command Center**](https://github.com/Luchitha7/FCSC-Command-Center) | Event and task management for a student community, with role based access | `React` `Supabase` |
+
+### 🔧 Small Sharp Tools
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 📊 | [**sheets-mcp**](https://github.com/Luchitha7/sheets-mcp) | Local MCP server that lets Claude Desktop read and write your Google Sheets | `Node.js` `MCP` |
+| 🧠 | [**Live Sentiment**](https://github.com/Luchitha7/whisper-roberta-sentiment) | Talk into your mic, get each phrase transcribed and scored for sentiment in real time, offline | `faster-whisper` `RoBERTa` |
+| 🔍 | [**dupefind**](https://github.com/Luchitha7/dupefind) | Duplicate file finder. Size bucketing then SHA-256, and it only ever sends extras to the Trash | `Python` `CLI` |
+
+**🌐 Open source:** docs fixes merged into [WSO2 API Manager](https://github.com/wso2/docs-apim)
 
 ---
 
 ### 🏢 `$ cat field-notes.log`
 
-<sub>What the day job taught me. The products are under NDA. The lessons aren't.</sub>
+<sub>What the day job taught me. The products stay private. The lessons don't.</sub>
 
 ```diff
 + Built end to end test automation with Playwright for a production web platform
@@ -43,105 +107,28 @@ contact:    luchithajayawardena@gmail.com
 
 ---
 
-### 🔭 Things I Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧭 [Meridian](https://github.com/notdulain/Meridian-Backend)
-Fleet management platform. 7 microservices, API gateway, gRPC, k6 load tests, CI/CD to Azure.
-
-`ASP.NET Core` `React` `Docker` `Azure`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎙️ [Utter](https://github.com/Luchitha7/utter)
-Private on device voice assistant for Mac. Runs Qwen3 4B locally through Ollama. Nothing leaves your machine.
-
-`Swift` `Ollama` `Local LLM`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 [Speech Sentiment Analyzer](https://github.com/Luchitha7/whisper-roberta-sentiment)
-Transcribes audio with Whisper, then classifies sentiment and emotion with RoBERTa.
-
-`Python` `Whisper` `RoBERTa`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 [MediConnect](https://github.com/Luchitha7/MediConnect---Backend-)
-Healthcare appointment system with role based access control.
-
-`Java` `Spring Boot` `React` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌍 [Hela Trip](https://github.com/sahan200272/Hela-Trip)
-Cross platform travel app for exploring Sri Lanka.
-
-`Flutter` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🖥️ [Command Center](https://github.com/Luchitha7/FCSC-Command-Center)
-Event management dashboard for the Faculty of Computing Student Community.
-
-`React` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔍 [dupefind](https://github.com/Luchitha7/dupefind)
-Duplicate file finder CLI. SHA-256 hashing with safe trash based deletion.
-
-`Python` `CLI`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 Open Source
-Docs contributions to [WSO2 API Manager](https://github.com/wso2/docs-apim).
-
-`WSO2` `Docs`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Stack
+### 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,ts,js,dart,swift,c&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,mysql,postgres,supabase,firebase,kafka&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,vercel,git,linux,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,ts,js,swift,c,dart&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,mysql,postgres,supabase,firebase,kafka&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,electron,vercel,git,linux,postman,figma&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-0D47A1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-1565C0?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-0D47A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JUnit_5-1565C0?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/k6-0D47A1?style=for-the-badge&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-0D47A1?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-1565C0?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CUDA-0D47A1?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-1565C0?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0D47A1?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1565C0?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 Stats
+### 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luchitha7&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=42A5F5&icon_color=64B5F6&text_color=BBDEFB&ring_color=1565C0" height="165" />
@@ -158,16 +145,14 @@ Docs contributions to [WSO2 API Manager](https://github.com/wso2/docs-apim).
 
 ---
 
-### 🤝 Find Me
+### 🤝 Say Hi
 
 <p align="center">
-  <a href="https://linkedin.com/in/luchitha-jayawardena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/luchithaj" target="_blank"><img src="https://img.shields.io/badge/Twitter-1565C0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@luchithajayawardena" target="_blank"><img src="https://img.shields.io/badge/Medium-0D47A1?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luchitha_jay/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/luchitha-jayawardena"><img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/luchithaj"><img src="https://img.shields.io/badge/Twitter-1565C0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@luchithajayawardena"><img src="https://img.shields.io/badge/Medium-0D47A1?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.instagram.com/luchitha_jay/"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:luchithajayawardena@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=100&section=footer" />
-</p>
+<p align="center"><sub>~ $ exit</sub></p>
