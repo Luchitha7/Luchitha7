@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="luchitha@kegalle terminal" />
+  <img src="./assets/header.svg" width="100%" alt="git log of Luchitha's work" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luchitha7&label=visitors&color=1565C0&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Luchitha7?label=followers&color=0D47A1&style=flat-square" />
-  <img src="https://img.shields.io/badge/based_in-Sri_Lanka_🇱🇰-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/contributions_this_year-800+-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/merged_PRs-50+-0D47A1?style=flat-square" />
 </p>
 
 <p align="center">
@@ -42,10 +43,10 @@ Private voice control for your Mac. Press ⌘⇧Space, say *"remind me to call m
 <tr>
 <td width="50%" valign="top">
 
-#### 📞 [SignalQA](https://github.com/Luchitha7/gemma-qa-analysis)
-Automated QA for customer service calls. Feed it a transcript, get back a score out of 100, an agent scorecard, compliance checks, tense moments and coaching notes. RoBERTa for sentiment, Gemma as the judge, embeddings for the knowledge base, and a job queue for load. Fully local, zero API bills.
+#### 🪙 [Zar](https://github.com/Luchitha7/Zar)
+A banking and finance tracker for Android, built as a team. Zar means gold, which felt right for an app about money.
 
-`Python` `RoBERTa` `Gemma` `RAG` `REST API`
+`Kotlin` `Android`
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +66,7 @@ One algorithm, four implementations. A Cooley Tukey radix 2 FFT written serially
 
 | | Project | What it is | Stack |
 |---|---|---|---|
-| 🧭 | [**Meridian**](https://github.com/notdulain/Meridian-Backend) | Fleet management platform. 7 microservices behind an API gateway, gRPC between services, k6 load tests, CI/CD to Azure | `ASP.NET Core` `gRPC` `Docker` `Azure` |
+| 🧭 | [**Meridian**](https://github.com/notdulain/Meridian-Backend) | Fleet management platform. 7 microservices behind an API gateway, gRPC between services, CI/CD to Azure. **My part:** delivery schema and service, secure login end to end, k6 load tests, architecture and API docs, deployment guide | `ASP.NET Core` `gRPC` `Docker` `Azure` |
 | 📨 | [**Wiber**](https://github.com/Luchitha7/wiber) | Multi node, fault tolerant messaging system. Leader election, replication, Lamport clocks, failover, live WebSocket streaming. No Kafka needed | `Python` `FastAPI` `Raft` |
 | 🧪 | [**TestLang++**](https://github.com/Luchitha7/Test-lang) | A DSL for HTTP API tests that compiles to JUnit 5. Lexer, parser, AST and code generator built from scratch | `Java` `JFlex` `CUP` `JUnit 5` |
 | 🏥 | [**MediConnect**](https://github.com/Luchitha7/MediConnect---Backend-) | Healthcare appointment platform with RBAC. Backend being rebuilt stage by stage to learn Spring properly | `Spring Boot` `React` `MySQL` `JWT` |
@@ -74,9 +75,9 @@ One algorithm, four implementations. A Cooley Tukey radix 2 FFT written serially
 
 | | Project | What it is | Stack |
 |---|---|---|---|
-| 🌲 | [**Labyrinth**](https://github.com/Luchitha7/Labyrinth) | 3D maze game where AI demon dogs hunt you. Drop barriers and watch A\*, BFS and Dijkstra replan live, side by side | `Unity 6` `C#` |
+| 🌲 | [**Labyrinth**](https://github.com/Luchitha7/Labyrinth) | 3D maze game where AI demon dogs hunt you. Drop barriers and watch A\*, BFS and Dijkstra replan live. **My part:** the Dijkstra agent | `Unity 6` `C#` |
 | 🎬 | [**MoodFrame**](https://github.com/Luchitha7/MoodFrame) | iOS app that recommends movies by how you feel, not by genre | `SwiftUI` `TMDB API` |
-| 🌍 | [**Hela Trip**](https://github.com/sahan200272/Hela-Trip) | Cross platform travel app for exploring Sri Lanka | `Flutter` `Firebase` |
+| 🌍 | [**Hela Trip**](https://github.com/sahan200272/Hela-Trip) | Cross platform travel app. **My part:** Firebase and iOS setup, then features across two sprints | `Flutter` `Firebase` |
 | 🖥️ | [**Command Center**](https://github.com/Luchitha7/FCSC-Command-Center) | Event and task management for a student community, with role based access | `React` `Supabase` |
 
 ### 🔧 Small Sharp Tools
