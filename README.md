@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="git log of Luchitha's work" />
+  <img src="./assets/header.svg?v=3" width="100%" alt="Luchitha Jayawardena" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luchitha7&label=visitors&color=1565C0&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Luchitha7?label=followers&color=0D47A1&style=flat-square" />
-  <img src="https://img.shields.io/badge/contributions_this_year-800+-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/merged_PRs-50+-0D47A1?style=flat-square" />
 </p>
 
 <p align="center">
